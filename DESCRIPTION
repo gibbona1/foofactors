@@ -18,3 +18,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     forcats
+URL: https://github.com/gibbona1/foofactors
+BugReports: https://github.com/gibbona1/foofactors/issues
